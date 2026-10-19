@@ -1,2 +1,5 @@
 .wrangler
 .assetsignore
+.git
+.gitignore
+README.md
